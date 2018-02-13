@@ -3,6 +3,7 @@ package org.litecoinj.integrations;
 import org.bitcoinj.core.*;
 import org.bitcoinj.script.Script;
 import org.bitcoinj.script.ScriptOpCodes;
+import org.bitcoinj.params.MainNetParams;
 
 import java.io.ByteArrayOutputStream;
 

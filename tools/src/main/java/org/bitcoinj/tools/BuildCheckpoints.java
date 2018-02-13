@@ -18,6 +18,7 @@
 package org.litecoinj.integrations;
 
 import org.bitcoinj.core.*;
+import org.bitcoinj.core.listeners.AbstractBlockChainListener;
 import org.bitcoinj.params.MainNetParams;
 import org.bitcoinj.store.BlockStore;
 import org.bitcoinj.store.MemoryBlockStore;

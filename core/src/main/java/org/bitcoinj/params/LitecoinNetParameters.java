@@ -12,7 +12,7 @@ import static org.bitcoinj.core.Coin.FIFTY_COINS;
 /**
  * Created by over on 08.12.14.
  */
-public class LitecoinNetParameters extends NetworkParameters{
+public class LitecoinNetParameters extends MainNetParams {
 
     public LitecoinNetParameters() {
         super();

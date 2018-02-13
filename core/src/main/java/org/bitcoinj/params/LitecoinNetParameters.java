@@ -34,7 +34,7 @@ public class LitecoinNetParameters extends MainNetParams {
         bip32HeaderPub = 0x0488B21E; //The 4 byte header that serializes in base58 to "xpub".
         bip32HeaderPriv = 0x0488ADE4; //The 4 byte header that serializes in base58 to "xprv"
 
-        genesisBlock = createEmpty(this);
+//        genesisBlock = createEmpty(this);
         Transaction t = new Transaction(this);
         try {
             // A script containing the difficulty bits and the following message:

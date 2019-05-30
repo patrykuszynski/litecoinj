@@ -19,8 +19,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.bitcoinj</groupId>
-  <artifactId>bitcoinj-parent</artifactId>
+  <groupId>org.litecoinj</groupId>
+  <artifactId>litecoinj-parent</artifactId>
   <version>0.15-SNAPSHOT</version>
   <packaging>pom</packaging>
 
@@ -43,7 +43,7 @@
     <url>scm:git:https://github.com/bitcoinj/bitcoinj</url>
   </scm>
 
-  <name>bitcoinj Parent</name>
+  <name>litecoinj Parent</name>
   <description>Provides the common configuration for the BitCoinJ modules</description>
   <url>http://www.bitcoinj.org/</url>
 
